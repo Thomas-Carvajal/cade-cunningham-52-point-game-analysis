@@ -1,0 +1,269 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="1486" viewBox="0 0 760 1486" role="img" aria-labelledby="title description">
+  <title id="title">50+ point, 10+ assist NBA games</title>
+  <desc id="description">Player, date, points and assists for 36 qualifying games, sorted by date.</desc>
+  <rect width="760" height="1486" fill="#f3f9ff"/>
+  <rect width="760" height="104" fill="#123b73"/>
+  <rect x="0" y="100" width="760" height="4" fill="#67b7f7"/>
+  <text x="36" y="49" fill="#ffffff" font-family="Arial, sans-serif" font-size="27" font-weight="700">50+ points, 10+ assists</text>
+  <text x="36" y="80" fill="#bfdbfe" font-family="Arial, sans-serif" font-size="15">NBA player games Â· chronological order</text>
+  <rect x="28" y="119" width="704" height="39" rx="8" fill="#d6eaff"/>
+  <g fill="#16457e" font-family="Arial, sans-serif" font-size="13" font-weight="700">
+    <text x="48" y="145">PLAYER</text>
+    <text x="460" y="145" text-anchor="end">DATE</text>
+    <text x="585" y="145" text-anchor="end">POINTS</text>
+    <text x="700" y="145" text-anchor="end">ASSISTS</text>
+  </g>
+  <rect x="28" y="162" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="186">Sleepy Floyd</text>
+    <text x="460" y="186" text-anchor="end">1987-05-10</text>
+    <text x="585" y="186" text-anchor="end">51</text>
+    <text x="700" y="186" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="198" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="222">Michael Jordan</text>
+    <text x="460" y="222" text-anchor="end">1992-12-23</text>
+    <text x="585" y="222" text-anchor="end">57</text>
+    <text x="700" y="222" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="234" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="258">Stephon Marbury</text>
+    <text x="460" y="258" text-anchor="end">2001-02-13</text>
+    <text x="585" y="258" text-anchor="end">50</text>
+    <text x="700" y="258" text-anchor="end">12</text>
+  </g>
+  <rect x="28" y="270" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="294">LeBron James</text>
+    <text x="460" y="294" text-anchor="end">2008-03-05</text>
+    <text x="585" y="294" text-anchor="end">50</text>
+    <text x="700" y="294" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="306" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="330">Tony Parker</text>
+    <text x="460" y="330" text-anchor="end">2008-11-05</text>
+    <text x="585" y="330" text-anchor="end">55</text>
+    <text x="700" y="330" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="342" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="366">LeBron James</text>
+    <text x="460" y="366" text-anchor="end">2009-02-04</text>
+    <text x="585" y="366" text-anchor="end">52</text>
+    <text x="700" y="366" text-anchor="end">11</text>
+  </g>
+  <rect x="28" y="378" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="402">Russell Westbrook</text>
+    <text x="460" y="402" text-anchor="end">2016-10-28</text>
+    <text x="585" y="402" text-anchor="end">51</text>
+    <text x="700" y="402" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="414" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="438">James Harden</text>
+    <text x="460" y="438" text-anchor="end">2016-12-31</text>
+    <text x="585" y="438" text-anchor="end">53</text>
+    <text x="700" y="438" text-anchor="end">17</text>
+  </g>
+  <rect x="28" y="450" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="474">James Harden</text>
+    <text x="460" y="474" text-anchor="end">2017-01-27</text>
+    <text x="585" y="474" text-anchor="end">51</text>
+    <text x="700" y="474" text-anchor="end">13</text>
+  </g>
+  <rect x="28" y="486" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="510">Russell Westbrook</text>
+    <text x="460" y="510" text-anchor="end">2017-03-29</text>
+    <text x="585" y="510" text-anchor="end">57</text>
+    <text x="700" y="510" text-anchor="end">11</text>
+  </g>
+  <rect x="28" y="522" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="546">Russell Westbrook</text>
+    <text x="460" y="546" text-anchor="end">2017-04-09</text>
+    <text x="585" y="546" text-anchor="end">50</text>
+    <text x="700" y="546" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="558" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="582">Russell Westbrook</text>
+    <text x="460" y="582" text-anchor="end">2017-04-19</text>
+    <text x="585" y="582" text-anchor="end">51</text>
+    <text x="700" y="582" text-anchor="end">13</text>
+  </g>
+  <rect x="28" y="594" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="618">James Harden</text>
+    <text x="460" y="618" text-anchor="end">2017-11-05</text>
+    <text x="585" y="618" text-anchor="end">56</text>
+    <text x="700" y="618" text-anchor="end">13</text>
+  </g>
+  <rect x="28" y="630" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="654">James Harden</text>
+    <text x="460" y="654" text-anchor="end">2018-01-30</text>
+    <text x="585" y="654" text-anchor="end">60</text>
+    <text x="700" y="654" text-anchor="end">11</text>
+  </g>
+  <rect x="28" y="666" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="690">James Harden</text>
+    <text x="460" y="690" text-anchor="end">2018-11-26</text>
+    <text x="585" y="690" text-anchor="end">54</text>
+    <text x="700" y="690" text-anchor="end">13</text>
+  </g>
+  <rect x="28" y="702" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="726">James Harden</text>
+    <text x="460" y="726" text-anchor="end">2018-12-13</text>
+    <text x="585" y="726" text-anchor="end">50</text>
+    <text x="700" y="726" text-anchor="end">11</text>
+  </g>
+  <rect x="28" y="738" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="762">James Harden</text>
+    <text x="460" y="762" text-anchor="end">2019-02-28</text>
+    <text x="585" y="762" text-anchor="end">58</text>
+    <text x="700" y="762" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="774" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="798">James Harden</text>
+    <text x="460" y="798" text-anchor="end">2019-03-30</text>
+    <text x="585" y="798" text-anchor="end">50</text>
+    <text x="700" y="798" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="810" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="834">Damian Lillard</text>
+    <text x="460" y="834" text-anchor="end">2020-01-26</text>
+    <text x="585" y="834" text-anchor="end">50</text>
+    <text x="700" y="834" text-anchor="end">13</text>
+  </g>
+  <rect x="28" y="846" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="870">Damian Lillard</text>
+    <text x="460" y="870" text-anchor="end">2020-02-01</text>
+    <text x="585" y="870" text-anchor="end">51</text>
+    <text x="700" y="870" text-anchor="end">12</text>
+  </g>
+  <rect x="28" y="882" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="906">Nikola Jokic</text>
+    <text x="460" y="906" text-anchor="end">2021-02-06</text>
+    <text x="585" y="906" text-anchor="end">50</text>
+    <text x="700" y="906" text-anchor="end">12</text>
+  </g>
+  <rect x="28" y="918" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="942">Damian Lillard</text>
+    <text x="460" y="942" text-anchor="end">2021-03-16</text>
+    <text x="585" y="942" text-anchor="end">50</text>
+    <text x="700" y="942" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="954" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="978">Kevin Porter Jr.</text>
+    <text x="460" y="978" text-anchor="end">2021-04-29</text>
+    <text x="585" y="978" text-anchor="end">50</text>
+    <text x="700" y="978" text-anchor="end">11</text>
+  </g>
+  <rect x="28" y="990" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="1014">Damian Lillard</text>
+    <text x="460" y="1014" text-anchor="end">2021-06-01</text>
+    <text x="585" y="1014" text-anchor="end">55</text>
+    <text x="700" y="1014" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="1026" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="1050">Stephen Curry</text>
+    <text x="460" y="1050" text-anchor="end">2021-11-08</text>
+    <text x="585" y="1050" text-anchor="end">50</text>
+    <text x="700" y="1050" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="1062" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="1086">Trae Young</text>
+    <text x="460" y="1086" text-anchor="end">2022-01-03</text>
+    <text x="585" y="1086" text-anchor="end">56</text>
+    <text x="700" y="1086" text-anchor="end">14</text>
+  </g>
+  <rect x="28" y="1098" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="1122">Luka Doncic</text>
+    <text x="460" y="1122" text-anchor="end">2022-12-23</text>
+    <text x="585" y="1122" text-anchor="end">50</text>
+    <text x="700" y="1122" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="1134" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="1158">Luka Doncic</text>
+    <text x="460" y="1158" text-anchor="end">2022-12-27</text>
+    <text x="585" y="1158" text-anchor="end">60</text>
+    <text x="700" y="1158" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="1170" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="1194">Donovan Mitchell</text>
+    <text x="460" y="1194" text-anchor="end">2023-01-02</text>
+    <text x="585" y="1194" text-anchor="end">71</text>
+    <text x="700" y="1194" text-anchor="end">11</text>
+  </g>
+  <rect x="28" y="1206" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="1230">Nikola Jokic</text>
+    <text x="460" y="1230" text-anchor="end">2023-05-07</text>
+    <text x="585" y="1230" text-anchor="end">53</text>
+    <text x="700" y="1230" text-anchor="end">11</text>
+  </g>
+  <rect x="28" y="1242" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="1266">Luka Doncic</text>
+    <text x="460" y="1266" text-anchor="end">2023-12-25</text>
+    <text x="585" y="1266" text-anchor="end">50</text>
+    <text x="700" y="1266" text-anchor="end">15</text>
+  </g>
+  <rect x="28" y="1278" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="1302">LaMelo Ball</text>
+    <text x="460" y="1302" text-anchor="end">2024-11-23</text>
+    <text x="585" y="1302" text-anchor="end">50</text>
+    <text x="700" y="1302" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="1314" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="1338">Nikola Jokic</text>
+    <text x="460" y="1338" text-anchor="end">2025-04-01</text>
+    <text x="585" y="1338" text-anchor="end">61</text>
+    <text x="700" y="1338" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="1350" width="704" height="36" fill="#eaf4ff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="1374">Nikola Jokic</text>
+    <text x="460" y="1374" text-anchor="end">2025-12-25</text>
+    <text x="585" y="1374" text-anchor="end">56</text>
+    <text x="700" y="1374" text-anchor="end">15</text>
+  </g>
+  <rect x="28" y="1386" width="704" height="36" fill="#ffffff"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="400">
+    <text x="48" y="1410">Luka Doncic</text>
+    <text x="460" y="1410" text-anchor="end">2026-10-25</text>
+    <text x="585" y="1410" text-anchor="end">52</text>
+    <text x="700" y="1410" text-anchor="end">10</text>
+  </g>
+  <rect x="28" y="1422" width="704" height="36" fill="#b9dcff"/>
+  <rect x="28" y="1422" width="5" height="36" fill="#2563eb"/>
+  <g fill="#143d6b" font-family="Arial, sans-serif" font-size="15" font-weight="700">
+    <text x="48" y="1446">Cade Cunningham</text>
+    <text x="460" y="1446" text-anchor="end">2026-11-12</text>
+    <text x="585" y="1446" text-anchor="end">52</text>
+    <text x="700" y="1446" text-anchor="end">11</text>
+  </g>
+</svg>
