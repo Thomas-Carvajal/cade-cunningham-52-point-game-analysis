@@ -124,8 +124,3 @@ Cade's night in Washington was the best game of his career by Game Score, one of
 **True shooting %** = 100 × PTS / [2 × (FGA + 0.44 × FTA)]
 
 Ranks count strictly higher scores, with ties sharing a rank. Season TS% uses summed points and attempts rather than averaging game percentages.
-
-**Code and files.**
-- [Analysis notebook](analysis.ipynb)
-- [Dataset build script](build_cade_dataset.py)
-- [Analysis script](analysis_cade.py)
