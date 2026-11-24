@@ -4,7 +4,7 @@ Cade Cunningham's career hasn't been a straight line. He missed almost all of hi
 
 Then, on November 12, 2026, he had one of those nights people bring up for years. He scored 52 points with 11 assists and no turnovers in a 144-140 double-overtime win at Washington, a game the Wizards twice sent to extra time with last-second shots.
 
-Nobody in my data had ever put up 50 points, 10 assists, and zero turnovers in the same game. The data starts in 1977-78, when turnovers began to be tracked, so "first" here means first since then.
+Nobody in NBA history has ever put up 50 points, 10 assists, and zero turnovers in the same game. The data starts in 1977-78, when turnovers began to be tracked, so "first" here means first since then.
 
 That raised the question I wanted to answer: **how good was this game, compared to Cade's own career and to every other NBA night since 1977-78, and how do you put a number on it?**
 
