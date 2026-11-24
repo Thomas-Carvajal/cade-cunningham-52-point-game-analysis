@@ -1,4 +1,4 @@
-# 52 Points, 11 Assists, 0 Turnovers: How Rare Was Cade Cunningham's Night in Washington?
+# How Good Was Cade's Game Actually? 52 Points, 11 Assists, 0 Turnovers
 
 Cade Cunningham's career hasn't been a straight line. He missed almost all of his second season, then played through the Pistons' 28-game losing streak, and for a long stretch he was easy to overlook next to his peers around the league.
 
